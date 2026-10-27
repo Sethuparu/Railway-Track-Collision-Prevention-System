@@ -4,7 +4,8 @@ A microcontroller-free digital electronics project that detects a potential conf
 
 > **Note:** This is a simplified educational model for a Digital Systems Lab. It *detects* a conflict condition and raises a warning. It does not control or stop trains, and it is not a certified railway safety system.
 
-![Demo](images/demo.gif)
+[Demo](<img width="1280" height="640" alt="Circuit diagram png" src="https://github.com/user-attachments/assets/5b676963-64e6-4c17-8d70-3ac319315062" />
+)
 
 ## Overview
 
