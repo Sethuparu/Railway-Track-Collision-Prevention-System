@@ -85,7 +85,7 @@ Power both ICs from pin 14 (+5 V) and pin 7 (GND), with a 100 nF capacitor acros
 | 74HC08 | 4, 5, 9, 10, 12, 13 | 6, 8, 11 |
 | 74HC04 | 3, 5, 9, 11, 13 | 4, 6, 8, 10, 12 |
 
-[Circuit diagram]<img width="2500" height="1980" alt="circuit-diagram" src="https://github.com/user-attachments/assets/1c4278c6-04fc-4e25-a339-301e7cc38038" />
+Circuit diagram <img width="2500" height="1980" alt="circuit-diagram" src="https://github.com/user-attachments/assets/1c4278c6-04fc-4e25-a339-301e7cc38038" />
 
 
 ## Build and Test
