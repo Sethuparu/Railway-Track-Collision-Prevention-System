@@ -127,7 +127,8 @@ Once all four pass, mount the circuit on a cardboard railway model with two trac
 
 ## Documentation
 
-- Project report (PDF)(https://github.com/user-attachments/files/34003077/Project.Report.pdf)
+- Project report (PDF)(https://github.com/user-attachments/files/34036656/Project.Report.1.pdf)
+
 
 
 ## Team
